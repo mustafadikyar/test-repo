@@ -1,2 +1,4 @@
 test.cs
 private-folder/*
+!private-folder/a.dart
+!private-folder/b.dart
